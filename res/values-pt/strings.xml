@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Um jogador</string>
+    <string name="singleplayer">Um Jogador</string>
     <string name="lan_multiplayer">LAN Multiplayer</string>
     <string name="online_multiplayer">Online Multiplayer</string>
     <string name="options">Opções</string>
@@ -11,7 +11,7 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
-    <string name="email_support">E-mail para Suporte:</string>
+    <string name="email_support">E-mail para o Suporte:</string>
     <string name="developer">Desenvolvedor:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
@@ -50,7 +50,7 @@
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
-    <string name="timer_format">Timer Format</string>
+    <string name="timer_format">Formato do Temporizador</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
@@ -62,7 +62,7 @@
     <string name="game_mode">Modo de Jogo</string>
     <string name="select_mode">Selecionar Modo</string>
     <string name="minimum_players">Núm. Mín. de Jogadores</string>
-    <string name="maximum_players">Maximum Players</string>
+    <string name="maximum_players">Núm. Máx de Jogadores</string>
     <string name="decrease_time">Reduzir Tempo</string>
     <string name="increase_time">Aumentar Tempo</string>
     <string name="grace_period">Tempo de Tolerância</string>
@@ -82,97 +82,97 @@
     <string name="max_split_pieces">Núm. Máx. de Splits</string>
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="no_holes">Sem Vírus</string>
-    <string name="warning_no_holes">Nenhuma estatística será salva</string>
+    <string name="warning_no_holes">Observação: Usando o modo Sem Vírus, Nenhuma estatística será salva.</string>
     <string name="gold_holes">Vírus Dourados</string>
 
     <!-- Shop -->
     <string name="shop">Shop</string>
-    <string name="voidstone_history">Voidstone History</string>
-    <string name="purchase_history">Purchase History</string>
-    <string name="page_x_of_y">Page %s of %s</string>
-    <string name="no_transactions_yet">No transactions yet</string>
+    <string name="voidstone_history">Histórico de Voidstone</string>
+    <string name="purchase_history">Histórico de Compras</string>
+    <string name="page_x_of_y">Página %s of %s</string>
+    <string name="no_transactions_yet">Nenhuma transação ainda</string>
 
-    <string name="admin_reward">Admin reward</string>
-    <string name="in_app_purchase">in-app purchase</string>
-    <string name="ad_reward">Ad reward</string>
-    <string name="voidstone_gift_received">Voidstone gift received</string>
-    <string name="voidstone_gift_send">Voidstone gift send</string>
-    <string name="skin_bought">Skin bought</string>
-    <string name="profile_name_change_bought">Profile name change bought</string>
-    <string name="profile_name_color_bought">Profile name color bought</string>
-    <string name="profile_color_bought">Profile color bought</string>
-    <string name="profile_color_gradient_bought">Profile color gradient bought</string>
-    <string name="profile_color_gradient_2_bought">Profile color gradient 2 bought</string>
+    <string name="admin_reward">Recompensa de administrador</string>
+    <string name="in_app_purchase">Compra no aplicativo</string>
+    <string name="ad_reward">Recompensa por Anúncios</string>
+    <string name="voidstone_gift_received">Presente de Voidstone recebido</string>
+    <string name="voidstone_gift_send">Presente de Voidstone enviado</string>
+    <string name="skin_bought">Skin comprada</string>
+    <string name="profile_name_change_bought">Mudança de nome do perfil comprada</string>
+    <string name="profile_name_color_bought">Mudança de cor do nome do perfil comprada</string>
+    <string name="profile_color_bought">Alteração de cor do perfil comprada</string>
+    <string name="profile_color_gradient_bought">Gradiente de cores de perfil comprado</string>
+    <string name="profile_color_gradient_2_bought">Gradiente Secundário de cores de perfil comprado</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
-    <string name="not_logged_in">Not logged in!</string>
-    <string name="login">Login</string>
-    <string name="login_google">Sign in with Google</string>
-    <string name="logout">Logout</string>
-    <string name="logout_all_devices">Logout All Devices</string>
+    <string name="not_logged_in">Não logado!</string>
+    <string name="login">Logar</string>
+    <string name="login_google">Faça login usando Google</string>
+    <string name="logout">Deslogar</string>
+    <string name="logout_all_devices">Deslogar de todos os dispositivos</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
-    <string name="delete_account">DELETE ACCOUNT</string>
+    <string name="delete_account">DELETAR CONTA</string>
     <string name="change_profile_name">Alterar Nome no Perfil</string>
     <string name="enter_profile_name">Insira um Nome no Perfil</string>
     <string name="profile_color">COR DO PERFIL</string>
     <string name="profile_text_color_white">White text</string>
     <string name="profile_text_color_black">Black text</string>
-    <string name="profile_gradient_color">Gradient color</string>
-    <string name="profile_3_gradient_color">Gradient color 2</string>
-    <string name="profile_animated_gradient">Animated Gradient</string>
-    <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
-    <string name="prerequisite_not_met">You must unlock %s first</string>
-    <string name="prerequisite_feature">required feature</string>
-    <string name="profile_name_color">PROFILE NAME COLOR</string>
-    <string name="profile_not_logged_in_error">Not logged in. Please log in first.</string>
-    <string name="profile_name_changed_success">Name changed to %s</string>
-    <string name="profile_name_change_failed">Failed to change name</string>
-    <string name="profile_name_change_error">Failed to change name: %d</string>
-    <string name="profile_goodbye">Goodbye! :(</string>
-    <string name="profile_logged_in_with_name">Logged in to %s</string>
-    <string name="profile_logged_in">Logged in</string>
-    <string name="profile_logout_confirm">Log out of %s?</string>
-    <string name="profile_logout_confirm_no_name">Log out?</string>
-    <string name="profile_logout_all_confirm">Log out all devices of %s? This may take up to an hour.</string>
-    <string name="profile_logout_all_confirm_no_name">Log out all devices? This may take up to an hour.</string>
-    <string name="profile_logout_failed">Logout failed</string>
-    <string name="profile_delete_warning">Are you sure you want to delete your Merg account and all data associated with it? THIS CANNOT BE UNDONE!</string>
-    <string name="profile_delete_type_prompt">Type %s to confirm account deletion:</string>
-    <string name="profile_delete_confirm_text">DELETE</string>
-    <string name="profile_delete_failed">Delete failed</string>
-    <string name="profile_created_label">Created %s</string>
-    <string name="unlock_name_colors">Unlock Name Colors</string>
-    <string name="unlock_name_colors_success">Name colors unlocked!</string>
-    <string name="name_colors_already_unlocked">Name colors already unlocked</string>
-    <string name="name_color_save_success">Name colors saved!</string>
-    <string name="name_color_save_failed">Failed to save colors</string>
-    <string name="name_colors_not_unlocked">Name colors not unlocked</string>
-    <string name="name_change_success">Name changed to: %s</string>
-    <string name="name_change_invalid_length">Invalid name length</string>
-    <string name="name_change_taken">Name taken</string>
-    <string name="unlock_profile_colors">Unlock Profile Colors</string>
-    <string name="unlock_profile_colors_gradient">Unlock Gradient Profile Colors</string>
-    <string name="unlock_profile_colors_gradient_2">Unlock Gradient Profile Colors 2</string>
-    <string name="unlock_profile_colors_success">Profile colors unlocked!</string>
-    <string name="unlock_profile_colors_gradient_success">Gradient Profile colors unlocked!</string>
-    <string name="unlock_profile_colors_gradient_2_success">Gradient Profile colors 2 unlocked!</string>
-    <string name="unlock_profile_colors_already_unlocked">Profile colors already unlocked</string>
-    <string name="unlock_profile_colors_gradient_already_unlocked">Gradient Profile colors already unlocked</string>
-    <string name="unlock_profile_colors_gradient_2_already_unlocked">Gradient Profile colors 2 already unlocked</string>
-    <string name="profile_color_save_success">Profile colors saved!</string>
-    <string name="unlock_profile_colors_not_unlocked">Profile colors not unlocked</string>
-    <string name="unlock_profile_colors_gradient_not_unlocked">Gradient Profile colors not unlocked</string>
-    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient Profile colors 2 not unlocked</string>
-    <string name="profile_color_save_failed">Failed to save Profile colors</string>
+    <string name="profile_gradient_color">Gradiente de cor</string>
+    <string name="profile_3_gradient_color">Gradiente de cor 2</string>
+    <string name="profile_animated_gradient">Gradiente de perfil animado</string>
+    <string name="profile_animated_circle_gradient">Gradiente circular animado</string>
+    <string name="prerequisite_not_met">É Necessário desbloquear %s first</string>
+    <string name="prerequisite_feature">Recurso necessário</string>
+    <string name="profile_name_color">COR DO NOME DE PERFIL</string>
+    <string name="profile_not_logged_in_error">Não logado. Faça login para continuar.</string>
+    <string name="profile_name_changed_success">Nome alterado para %s</string>
+    <string name="profile_name_change_failed">Falha ao alterar nome</string>
+    <string name="profile_name_change_error">Falha ao alterar nome: %d</string>
+    <string name="profile_goodbye">Adeus! :(</string>
+    <string name="profile_logged_in_with_name">Logado como %s</string>
+    <string name="profile_logged_in">Logado com sucesso</string>
+    <string name="profile_logout_confirm">Deslogar de %s?</string>
+    <string name="profile_logout_confirm_no_name">Deslogar?</string>
+    <string name="profile_logout_all_confirm">Deslogar de todos os dispositivos de %s? Isso pode durar até uma hora.</string>
+    <string name="profile_logout_all_confirm_no_name">Deslogar de todos os dispositivos? Isso pode durar até uma hora.</string>
+    <string name="profile_logout_failed">Falha ao Deslogar</string>
+    <string name="profile_delete_warning">Você tem certeza que quer deletar a sua conta Merg e apagar todo o seu progresso e informações associadas a ela? ISSO NÃO PODE SER DESFEITO!</string>
+    <string name="profile_delete_type_prompt">Digite %s para confirmar a exclusão da conta:</string>
+    <string name="profile_delete_confirm_text">DELETAR</string>
+    <string name="profile_delete_failed">Falha ao deletar a conta</string>
+    <string name="profile_created_label">Criado %s</string>
+    <string name="unlock_name_colors">Desbloquear cores no nome</string>
+    <string name="unlock_name_colors_success">Cores no nome desbloqueadas!</string>
+    <string name="name_colors_already_unlocked">As cores no nome já estão desbloqueadas</string>
+    <string name="name_color_save_success">Cores no nome salvas!</string>
+    <string name="name_color_save_failed">Falha ao salvar cores</string>
+    <string name="name_colors_not_unlocked">Cores no nome não desbloqueadas</string>
+    <string name="name_change_success">Nome alterado para: %s</string>
+    <string name="name_change_invalid_length">Tamanho de nome inválido</string>
+    <string name="name_change_taken">Nome em uso</string>
+    <string name="unlock_profile_colors">Desbloquear cores de perfil</string>
+    <string name="unlock_profile_colors_gradient">Desbloquear gradiente de cores de perfil</string>
+    <string name="unlock_profile_colors_gradient_2">Desbloquear gradiente de cores de perfil 2</string>
+    <string name="unlock_profile_colors_success">Cores de perfil desbloqueadas!</string>
+    <string name="unlock_profile_colors_gradient_success">Gradiente de cores de perfil desbloqueado!</string>
+    <string name="unlock_profile_colors_gradient_2_success">Gradiente de cores de perfil 2 desbloqueado!</string>
+    <string name="unlock_profile_colors_already_unlocked">Cores de perfil já desbloquedas</string>
+    <string name="unlock_profile_colors_gradient_already_unlocked">Gradiente de cores de perfil já desbloqueado</string>
+    <string name="unlock_profile_colors_gradient_2_already_unlocked">Gradiente de cores de perfil 2 já desbloqueado</string>
+    <string name="profile_color_save_success">Cores de perfil salvas!</string>
+    <string name="unlock_profile_colors_not_unlocked">Cores de perfil não desbloqueadas</string>
+    <string name="unlock_profile_colors_gradient_not_unlocked">Gradiente de cores de perfil não desbloqueado</string>
+    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradiente de cores de perfil 2 não desbloqueado</string>
+    <string name="profile_color_save_failed">Falha ao salvar cores de perfil</string>
 
     <!-- Search Profile -->
-    <string name="search_account">Search Account</string>
-    <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
-    <string name="no_account_found">No account found</string>
+    <string name="search_account">Pesquisar conta</string>
+    <string name="search_account_by_id_or_name">Pesquise por uma conta com ID ou nome</string>
+    <string name="no_account_found">Nenhuma conta encontrada</string>
 
     <!-- Statistics !-->
     <string name="all">Tudo</string>
@@ -269,8 +269,8 @@
     <string name="skin_color_preview">Prévia:</string>
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
-    <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="skin_tab_voidstones">Skins por Voidstone</string>
+    <string name="level_skin_locked">Está skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
 
@@ -313,7 +313,7 @@
     <string name="xp" translatable="false">XP</string>
     <string name="level">Nível</string>
     <string name="food">Alimento</string>
-    <string name="voidstones">Pedras do Vazio</string>
+    <string name="voidstones">Voidstones</string>
     <string name="blobs_eaten">Blobs Absorvidos</string>
     <string name="session_stat_size_gained">Tamanho Obtido</string>
     <string name="highest_rank">Maior Classificação</string>
@@ -326,48 +326,48 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">Confirmar</string>
-    <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
+    <string name="dialog_confirm_account_deletion">DELETAR CONTA</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
     <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
-    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
-    <string name="dialog_connection_error">Connection Error</string>
-    <string name="dialog_disconnected">Disconnected</string>
-    <string name="dialog_disconnected_message">Lost connection to the server.</string>
-    <string name="room_crash">A sala travou: %s</string>
+    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será reiniciado.</string>
+    <string name="dialog_connection_error">Erro de conexão</string>
+    <string name="dialog_disconnected">Desconectado</string>
+    <string name="dialog_disconnected_message">Conexão perdida.</string>
+    <string name="room_crash">Ocorreu um problema com está sessão: %s</string>
     <string name="dialog_yes">SIM</string>
     <string name="dialog_no">NÃO</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIAR</string>
     <string name="toast_please_wait">Aguarde</string>
     <string name="permission_denied">Permissão negada</string>
-    <string name="dialog_locked">Locked</string>
+    <string name="dialog_locked">Bloqueado</string>
 
     <!-- LAN Multiplayer -->
-    <string name="host_local_game">HOST LOCAL GAME</string>
+    <string name="host_local_game">HOST JOGO LOCAL</string>
     <string name="local_ip">Local IP: %s</string>
     <string name="public_ip">Public IP: %s</string>
-    <string name="searching_rooms">Searching for available rooms…</string>
+    <string name="searching_rooms">Pesquisando por salas disponíveis…</string>
     <string name="host">Host</string>
     <string name="enter_ip">Enter IP</string>
     <string name="join_ip_title">Join IP Address</string>
-    <string name="join">Join</string>
+    <string name="join">Entrar</string>
     <string name="timeout">Timed out after %dms</string>
-    <string name="room_full">Room Full</string>
+    <string name="room_full">Sala cheia</string>
     <string name="players_count">Players</string>
-    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router\'s settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+    <string name="remote_lan_connections">Para permitir que outros clientes entrem remotamente pelo IP público, você precisa encaminhar a porta UDP %d ou ativar a DMZ para o seu dispositivo nas configurações do roteador. Observe que as conexões ainda podem falhar se sua rede estiver sob NAT Simétrico/CGNAT. Para mais informações e para verificar seu tipo de NAT atual, visite %s.</string>
 
     <!-- Miscellaneous !-->
     <string name="play">Jogar</string>
     <string name="respawn">Renascer</string>
     <string name="wait">Aguarde</string>
     <string name="back">Voltar</string>
-    <string name="mode">Mode</string>
+    <string name="mode">Modo</string>
     <string name="save">Salvar</string>
     <string name="saved">Salvo</string>
-    <string name="saving">Saving…</string>
-    <string name="buy">Buy</string>
-    <string name="buying">Buying…</string>
-    <string name="search">Search</string>
+    <string name="saving">Salvando…</string>
+    <string name="buy">Comprar</string>
+    <string name="buying">Comprando…</string>
+    <string name="search">Pesquisar</string>
     <string name="cancel">Cancelar</string>
     <string name="close">Fechar</string>
     <string name="select">Selecionar</string>
@@ -381,14 +381,14 @@
     <string name="team">Equipe</string>
     <string name="game_menu">MENU DO JOGO</string>
     <string name="color_picker">SELETOR DE CORES</string>
-    <string name="color_wheel">Roda das Cores</string>
+    <string name="color_wheel">Roda de Cores</string>
     <string name="brightness">Brilho</string>
     <string name="no_one">Nenhum</string>
     <string name="multiplayer">Multijogador</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Carregando…</string>
     <string name="room_type_local">Local: %s</string>
-    <string name="room_type_public">Public: %s</string>
-    <string name="room_type_private">Private: %s</string>
+    <string name="room_type_public">Público: %s</string>
+    <string name="room_type_private">Privado: %s</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
@@ -408,18 +408,18 @@
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
-    <string name="invalid_name">Invalid Name!</string>
-    <string name="connecting">Connecting%s</string>
+    <string name="invalid_name">Nome Inválido!</string>
+    <string name="connecting">Conectando %s</string>
     <string name="error">Erro</string>
     <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
-    <string name="invalid_request">Missing required fields</string>
-    <string name="invalid_token">Invalid or expired session. Please log in again.</string>
-    <string name="rate_limited">Please wait %d second(s) and try again</string>
-    <string name="nonexistent_user">User not found</string>
-    <string name="not_enough_voidstones">Not enough voidstones</string>
-    <string name="database_write_fail">Database write failed</string>
-    <string name="database_read_fail">Database read failed</string>
-    <string name="internal_server_error">Internal Server Error</string>
-    <string name="unknown_error_code">Unknown error Code %d</string>
+    <string name="invalid_request">Campos obrigatórios ausentes</string>
+    <string name="invalid_token">Sessão inválida ou expirada. Faça login novamente.</string>
+    <string name="rate_limited">Porfavor aguarde %d segundo(s) e tente novamente.</string>
+    <string name="nonexistent_user">Usuário não encontrado.</string>
+    <string name="not_enough_voidstones">Voidstones insuficientes.</string>
+    <string name="database_write_fail">Falha ao escrever no banco de dados.</string>
+    <string name="database_read_fail">Falha na leitura do banco de dados.</string>
+    <string name="internal_server_error">Erro interno do servidor</string>
+    <string name="unknown_error_code">Código de erro desconhecido %d</string>
 </resources>
